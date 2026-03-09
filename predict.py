@@ -9,8 +9,8 @@ from scipy.sparse import hstack
 # -----------------------------
 THRESHOLD = 0.25
 
-INPUT_FILE = "TTest1.xlsx"
-OUTPUT_FILE = "output1.xlsx"
+INPUT_FILE = "Test.xlsx"
+OUTPUT_FILE = "output.xlsx"
 
 # -----------------------------
 # Text cleaning (MUST match training)
